@@ -6,3 +6,12 @@ C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGU
 C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
 C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
 C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\obj\Debug\CalculatorGUI.CalculatorGUIForm.resources
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\Users\Conli\Source\Repos\cis297-w2022-assignment5-template2-ConliskM\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
