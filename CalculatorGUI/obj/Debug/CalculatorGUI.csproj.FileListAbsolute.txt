@@ -1,0 +1,8 @@
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.CalculatorGUIForm.resources
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
